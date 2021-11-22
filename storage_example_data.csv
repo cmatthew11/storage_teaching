@@ -1,4 +1,4 @@
-,supply (MW),island demand (MW),household demand (W),price (£/MWh)
+,supply,island demand,household demand,price
 23/01/2016 08:00,23.33,17.53,92.13,-5.00
 23/01/2016 09:00,21.63,19.16,58.37,-5.00
 23/01/2016 10:00,27.44,18.59,162.83,22.87
